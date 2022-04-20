@@ -1,0 +1,17 @@
+.box {
+    display: flex;
+}
+
+.product-card {
+    border: 1px solid black;
+    width: 300px;
+}
+
+.product-title {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.product-img {
+    width: 100%;
+}
