@@ -18,25 +18,21 @@ for (let i = 0; i < 10; i++) {
 
 const task3 = 'Заголовок';
 
-{
     let i = 0
     while (i < 20) {
         i++;
         document.write(`<h1>${task3}</h1>`);
     }
-}
 
 // Task 4
 
 const task4 = 'Другий заголовок!!';
 
-{
-    let i = 0
-    while (i < 20) {
-        i++;
-        document.write(`<h1>${task4} ${i}</h1>`);
+    let j = 0
+    while (j < 20) {
+        j++;
+        document.write(`<h1>${task4} ${j}</h1>`);
     }
-}
 
 // Task 5
 
